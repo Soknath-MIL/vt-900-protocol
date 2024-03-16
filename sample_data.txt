@@ -1,0 +1,72 @@
+
+Data received from client at IP: ::ffff:27.55.86.183
+Received from client (as Buffer): <Buffer 24 24 00 8f 14 21 70 32 31 82 ff 99 55 31 32 34 33 31 39 2e 30 30 30 2c 41 2c 31 34 31 30 2e 39 38 33 30 2c 4e 2c 31 30 30 33 34 2e 30 34 36 38 2c 45 ... 93 more bytes>
+Received from client (as string): 2424008f142170323182ff99553132343331392e3030302c412c313431302e393833302c4e2c31303033342e303436382c452c302e30302c3238372c3136303332342c2c2a30457c302e387c31377c323030307c303030302c303030302c303130452c303241337c30323038303030303042424430313435353731357c30437c30323433343146367c304192280d0a
+command:  9955
+[
+  '124319.000,A,1410.9830,N,10034.0468,E,0.00,287,160324,,*0E',
+  '0.8',
+  '17',
+  '2000',
+  '0000,0000,010E,02A3',
+  '020800000BBD01455715',
+  '0C',
+  '024341F6',
+  ''
+]
+{
+  imei: '142170323182',
+  command: '9955',
+  time: '12:43:19.000',
+  gpsStatus: 'A',
+  latitude: 14.18305,
+  northSouth: 'N',
+  longitude: 100.56744666666667,
+  eastWest: 'E',
+  speed: '0.00',
+  heading: '287',
+  date: '2024/3/16',
+  magneticVar: '',
+  gprmc: '*0E',
+  hdop: '0.8',
+  altitude: '17',
+  state: '10000000000000',
+  ad: '0000,0000,010E,02A3',
+  ad1: 0,
+  ad2: 0,
+  extBat: 12.65625,
+  intBat: 3.955078125,
+  baseID: '020800000BBD01455715',
+  csq: 12,
+  mileague: 37962230,
+  satellite: '',
+  customData: ''
+}
+{
+  imei: '142170323182',
+  command: '9955',
+  time: '12:43:19.000',
+  gpsStatus: 'A',
+  latitude: 14.18305,
+  northSouth: 'N',
+  longitude: 100.56744666666667,
+  eastWest: 'E',
+  speed: '0.00',
+  heading: '287',
+  date: '2024/3/16',
+  magneticVar: '',
+  gprmc: '*0E',
+  hdop: '0.8',
+  altitude: '17',
+  state: '10000000000000',
+  ad: '0000,0000,010E,02A3',
+  ad1: 0,
+  ad2: 0,
+  extBat: 12.65625,
+  intBat: 3.955078125,
+  baseID: '020800000BBD01455715',
+  csq: 12,
+  mileague: 37962230,
+  satellite: '',
+  customData: ''
+}
